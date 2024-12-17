@@ -1,7 +1,7 @@
 # Daily-sea-Ice-Extent-In-Hemispheres-Forecasting
 This project involves time series forecasting of daily sea ice extent in the Northern and Southern hemispheres. The analysis culminates in the creation of a PyDash Plotly dashboard, which can be accessed at the following link:
 
-Sea Ice Forecast Dashboard - https://dashapp-zipivjo7pq-uk.a.run.app/
+Sea Ice Forecast Dashboard - https://dashapp-823350748929.us-east4.run.app/
 
 Overview
 Climate change is a widely discussed topic, impacting various aspects of our environment. One significant indicator of climate change is the extent of sea ice in both the Arctic and Antarctic regions. Monitoring and forecasting the extent of sea ice is crucial for understanding the broader impacts of climate change on our ecosystems and human activities.
